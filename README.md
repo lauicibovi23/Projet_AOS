@@ -21,4 +21,4 @@ url: http://127.0.0.1:5000/next_move
 }
 
 ******* IMPOTRTANT *****
-pour tester il suffit de faire en ligne de commande python main.py et vous aurez le résultat en ligne de commande, car pour la récupération des data on a un problème
+Pour tester, il suffit de taper en ligne de commande "python main.py" et vous aurez le résultat en ligne de commande, car pour la récupération des data on a un problème.
